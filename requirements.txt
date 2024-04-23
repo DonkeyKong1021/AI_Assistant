@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+num2words
+python-dateutil
+keyboard
+playsound
+transformers
+torch
+tk
